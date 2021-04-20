@@ -5,14 +5,11 @@ body {
     background-color: #eaeaea;
 }
 
-.topbar{
-    height: 6px;
-    width: 100%;
-    background-color: #c7c36d;
-}
-
 .navbar {
+    border-top: 6px solid #c7c36d;
+    position: fixed;
     display: flex;
+    width: 100%;
     justify-content: space-between;
     align-items: center;
     background-color: #254d2a;
