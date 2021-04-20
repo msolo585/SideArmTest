@@ -73,6 +73,7 @@ body {
 }
 
 .main {
+    margin-top: 90px;
     display: flex;
     justify-content: center;
     background-color: #eaeaea;
